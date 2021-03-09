@@ -2,8 +2,6 @@ using UnityEngine;
 
 // !! IMPORTANT !!
 // Make sure your Animator component is set to Update Mode -> Animate Physics
-// This will keep animations in sync with stop motion effec that runs on FixedUpdate with physics
-
 
 public class FakeStopMotion : MonoBehaviour
 {
